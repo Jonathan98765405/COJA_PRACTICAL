@@ -5,4 +5,13 @@ export const USERS = [
   { id: 4, name: 'Carlo Dizon', email: 'carlo@example.com', company: 'Pixel Labs', role: 'UI Designer' },
   { id: 5, name: 'Liza Ramos', email: 'liza@example.com', company: 'CloudNine', role: 'Project Manager' },
   { id: 6, name: 'Mark Villanueva', email: 'mark@example.com', company: 'DataWorks', role: 'QA Engineer' },
+  { id: 7, name: 'Sofia Garcia', email: 'sofia@example.com', company: 'BrightPath', role: 'Product Manager' },
+  { id: 8, name: 'Miguel Torres', email: 'miguel@example.com', company: 'Pixel Labs', role: 'DevOps Engineer' },
+  { id: 9, name: 'Isabel Mendoza', email: 'isabel@example.com', company: 'BrightPath', role: 'UX Researcher' },
+  { id: 10, name: 'Paolo Bautista', email: 'paolo@example.com', company: 'CloudNine', role: 'Mobile Developer' },
+  { id: 11, name: 'Katrina Aquino', email: 'katrina@example.com', company: 'DataWorks', role: 'Data Engineer' },
+  { id: 12, name: 'Rafael Navarro', email: 'rafael@example.com', company: 'NorthStar', role: 'Security Analyst' },
+  { id: 13, name: 'Bianca Flores', email: 'bianca@example.com', company: 'NorthStar', role: 'Technical Writer' },
+  { id: 14, name: 'Gabriel Lim', email: 'gabriel@example.com', company: 'BrightPath', role: 'Full-Stack Developer' },
+  { id: 15, name: 'Nina Castillo', email: 'nina@example.com', company: 'NorthStar', role: 'Scrum Master' },
 ]
